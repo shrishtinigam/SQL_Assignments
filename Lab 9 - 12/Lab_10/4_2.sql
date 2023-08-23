@@ -1,0 +1,4 @@
+BEGIN
+P_HELLOWORLD();
+END;
+/
